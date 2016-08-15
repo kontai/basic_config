@@ -1,0 +1,31 @@
+pane	1	1	:~	0	:#	0	:/home/tai	1	zsh	:
+pane	1	2	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	1	3	:~	0	:-	0	:/home/tai	1	zsh	:
+pane	2	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	4	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	5	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	6	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	7	1	:~/download	1	:*	0	:/home/tai/download	1	zsh	:
+pane	Tmux Rock!	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	Tmux Rock!	2	:/etc	0	: 	0	:/home/tai	0	zsh	:
+pane	Tmux Rock!	2	:/etc	0	: 	1	:/etc	0	zsh	:
+pane	Tmux Rock!	2	:/etc	0	: 	2	:/etc	0	zsh	:
+pane	Tmux Rock!	2	:/etc	0	: 	3	:/home/tai	1	zsh	:
+pane	Tmux Rock!	3	:~	0	: 	0	:/home/tai	1	zsh	:
+pane	Tmux Rock!	4	:htop	0	:#-	0	:/home/tai	1	htop	:htop
+pane	gesamt	0	:~	1	:*	0	:/home/tai	0	zsh	:
+pane	gesamt	0	:~	1	:*	1	:/home/tai	1	zsh	:
+window	1	1	0	:#	84f0,129x100,0,0,3
+window	1	2	1	:*	84f1,129x100,0,0,4
+window	1	3	0	:-	84f2,129x100,0,0,5
+window	2	1	1	:*	84f3,129x100,0,0,6
+window	4	1	1	:*	84f4,129x100,0,0,7
+window	5	1	1	:*	84f5,129x100,0,0,8
+window	6	1	1	:*	84f6,129x100,0,0,9
+window	7	1	1	:*	42ae,129x100,0,0,17
+window	Tmux Rock!	1	1	:*	6ef8,129x99,0,0,19
+window	Tmux Rock!	2	0	: 	2b82,129x25,0,0[129x21,0,0{74x21,0,0,11,54x21,75,0[54x3,75,0,12,54x17,75,4,13]},129x3,0,22,14]
+window	Tmux Rock!	3	0	: 	5ff5,129x25,0,0,16
+window	Tmux Rock!	4	0	:#-	6ef4,129x99,0,0,15
+window	gesamt	0	1	:*	4579,129x100,0,0{65x100,0,0,0,63x100,66,0,2}
+state	Tmux Rock!	Tmux Rock!

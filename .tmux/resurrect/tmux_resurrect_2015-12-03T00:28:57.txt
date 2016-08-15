@@ -1,0 +1,22 @@
+pane	1	1	:~	0	:#	0	:/home/tai	1	zsh	:
+pane	1	2	:chat/player	1	:*	0	:/home/tai	1	ncmpcpp	:
+pane	1	3	:htop	0	:#-	0	:/home/tai	1	htop	:
+pane	2	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	gesamt	0	:~	1	:*	0	:/home/tai	0	zsh	:
+pane	gesamt	0	:~	1	:*	1	:/home/tai	1	zsh	:
+pane	yeahhhhh	1	:~	0	: 	0	:/home/tai	1	zsh	:
+pane	yeahhhhh	2	:ncmpcpp	1	:*	0	:/home/tai	1	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	2	:ncmpcpp	1	:*	1	:/home/tai	0	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	2	:ncmpcpp	1	:*	2	:/home/tai	0	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	3	:/mnt	0	:-	0	:/mnt	1	zsh	:
+pane	yeahhhhh	4	:htop	0	:#	0	:/home/tai	1	htop	:htop
+window	1	1	0	:#	ae60,80x23,0,0,3
+window	1	2	1	:*	ae62,80x23,0,0,5
+window	1	3	0	:#-	ae63,80x23,0,0,6
+window	2	1	1	:*	ab14,177x157,0,0,7
+window	gesamt	0	1	:*	01d3,177x157,0,0{89x157,0,0,0,87x157,90,0,2}
+window	yeahhhhh	1	0	: 	ab15,177x157,0,0,8
+window	yeahhhhh	2	1	:*	8d8f,177x157,0,0[177x62,0,0,9,177x47,0,63,10,177x46,0,111,11]
+window	yeahhhhh	3	0	:-	55b9,177x157,0,0,12
+window	yeahhhhh	4	0	:#	55ba,177x157,0,0,13
+state	yeahhhhh	yeahhhhh

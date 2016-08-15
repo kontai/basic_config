@@ -1,0 +1,29 @@
+pane	1	1	:~	0	:#	0	:/home/tai	1	zsh	:
+pane	1	2	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	1	3	:~	0	:-	0	:/home/tai	1	zsh	:
+pane	2	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	4	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	5	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	6	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	Tmux Rock!	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	Tmux Rock!	2	:service	0	:#	0	:/home/tai	0	zsh	:
+pane	Tmux Rock!	2	:service	0	:#	1	:/etc	0	ncmpcpp	:ncmpcpp
+pane	Tmux Rock!	2	:service	0	:#	2	:/etc	0	ncmpcpp	:ncmpcpp
+pane	Tmux Rock!	2	:service	0	:#	3	:/home/tai	1	ncmpcpp	:ncmpcpp
+pane	Tmux Rock!	3	:vim	0	:-	0	:/home/tai/workspace/c	1	vim	:vim 1.c
+pane	Tmux Rock!	4	:htop	0	:#	0	:/home/tai	1	htop	:htop
+pane	gesamt	0	:~	1	:*	0	:/home/tai	0	zsh	:
+pane	gesamt	0	:~	1	:*	1	:/home/tai	1	zsh	:
+window	1	1	0	:#	a570,142x118,0,0,3
+window	1	2	1	:*	a571,142x118,0,0,4
+window	1	3	0	:-	a572,142x118,0,0,5
+window	2	1	1	:*	a573,142x118,0,0,6
+window	4	1	1	:*	a574,142x118,0,0,7
+window	5	1	1	:*	a575,142x118,0,0,8
+window	6	1	1	:*	52ed,142x118,0,0,16
+window	Tmux Rock!	1	1	:*	54ef,142x119,0,0,18
+window	Tmux Rock!	2	0	:#	0f8a,142x119,0,0[142x98,0,0{80x98,0,0,10,61x98,81,0[61x70,81,0,11,61x27,81,71,12]},142x20,0,99,13]
+window	Tmux Rock!	3	0	:-	54ee,142x119,0,0,17
+window	Tmux Rock!	4	0	:#	52ec,142x118,0,0,15
+window	gesamt	0	1	:*	9419,142x118,0,0{71x118,0,0,0,70x118,72,0,2}
+state	Tmux Rock!	Tmux Rock!

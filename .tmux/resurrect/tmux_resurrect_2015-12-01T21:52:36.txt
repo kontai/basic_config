@@ -1,0 +1,16 @@
+pane	2	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	gesamt	0	:~	1	:*	0	:/home/tai	0	zsh	:
+pane	gesamt	0	:~	1	:*	1	:/home/tai	1	zsh	:
+pane	yeahhhhh	1	:~	0	:-	0	:/home/tai	1	zsh	:
+pane	yeahhhhh	2	:service	1	:*	0	:/home/tai	0	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	2	:service	1	:*	1	:/home/tai	0	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	2	:service	1	:*	2	:/home/tai	1	ncmpcpp	:ncmpcpp
+pane	yeahhhhh	3	:vim	0	: 	0	:/home/tai	1	vim	:vim
+pane	yeahhhhh	4	:htop	0	:#	0	:/home/tai	1	htop	:htop
+window	2	1	1	:*	a314,177x155,0,0,7
+window	gesamt	0	1	:*	efd0,177x155,0,0{89x155,0,0,0,87x155,90,0,2}
+window	yeahhhhh	1	0	:-	d5b7,177x157,0,0,20
+window	yeahhhhh	2	1	:*	8589,177x157,0,0[177x78,0,0,10,177x15,0,79,17,177x62,0,95,18]
+window	yeahhhhh	3	0	: 	55c0,177x157,0,0,19
+window	yeahhhhh	4	0	:#	55bc,177x157,0,0,15
+state	yeahhhhh	yeahhhhh

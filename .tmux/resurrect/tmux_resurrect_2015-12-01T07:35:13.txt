@@ -1,0 +1,21 @@
+pane	1	1	:~	0	:#	0	:/home/tai	0	zsh	:
+pane	1	1	:~	0	:#	1	:/home/tai	0	ncmpcpp	:
+pane	1	1	:~	0	:#	2	:/home/tai	1	zsh	:
+pane	1	2	:~	1	:*	0	:/home/tai	0	ncmpcpp	:ncmpcpp
+pane	1	2	:~	1	:*	1	:/home/tai	0	ncmpcpp	:
+pane	1	2	:~	1	:*	2	:/home/tai	0	ncmpcpp	:
+pane	1	2	:~	1	:*	3	:/home/tai	1	zsh	:
+pane	1	3	:htop	0	:#	0	:/home/tai	1	htop	:
+pane	1	5	:htop	0	:#	0	:/home/tai	1	htop	:
+pane	1	6	:htop	0	:#-	0	:/home/tai	1	htop	:
+pane	2	1	:~	1	:*	0	:/home/tai	1	zsh	:
+pane	gesamt	0	:~	1	:*	0	:/home/tai	0	zsh	:
+pane	gesamt	0	:~	1	:*	1	:/home/tai	1	zsh	:
+window	1	1	0	:#	5a9e,152x41,0,0{76x41,0,0,3,75x41,77,0[75x20,77,0,9,75x20,77,21,10]}
+window	1	2	1	:*	4081,152x41,0,0{53x41,0,0,8,49x41,54,0,12,48x41,104,0[48x20,104,0,14,48x20,104,21,15]}
+window	1	3	0	:#	b0c3,152x41,0,0,6
+window	1	5	0	:#	5892,152x41,0,0,13
+window	1	6	0	:#-	5897,152x41,0,0,18
+window	2	1	1	:*	b0c4,152x41,0,0,7
+window	gesamt	0	1	:*	f101,80x23,0,0{40x23,0,0,0,39x23,41,0,2}
+state	1	2
