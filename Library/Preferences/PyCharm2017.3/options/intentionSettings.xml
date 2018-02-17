@@ -1,0 +1,22 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="CSS/Change color" />
+    <ignoreAction name="CSS/Convert color to HEX" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to HWB" />
+    <ignoreAction name="CSS/Convert color to RGB/RGBA" />
+    <ignoreAction name="CSS/Convert color to gray" />
+    <ignoreAction name="CSS/Create Selector" />
+    <ignoreAction name="CSS/Expand CSS shorthand property" />
+    <ignoreAction name="CSS/Extract image" />
+    <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="CSS/Replace quotes" />
+    <ignoreAction name="CSS/Replace with color name" />
+    <ignoreAction name="CSS/Update background-image size" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Django/Wrap with 'trans' tag" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+  </component>
+</application>
