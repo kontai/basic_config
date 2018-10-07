@@ -212,7 +212,7 @@ let Tlist_Inc_Winwidth=0
 let g:winManagerWindowLayout='FileExplorer|TagList' " 设置我们要管理的插件
 let g:persistentBehaviour=0 " 如果所有编辑文件都关闭了，退出vim
 nmap wm :WMToggle<cr> 
-autocmd VimEnter * WMToggle "啟動時執行WMToogle
+autocmd VimEnter *: WMToggle "啟動時執行WMToogle
 
 "========= MiniBufferExplorer ===========
 let g:miniBufExplMapWindowNavVim = 1 " 按下Ctrl+h/j/k/l，可以切换到当前窗口的上下左右窗口
@@ -322,3 +322,4 @@ function! RemovePairs()
 endfunction
 " 用退格键删除一个左括号时同时删除对应的右括号
 inoremap <BS> <ESC>:call RemovePairs()<CR>a
+endif
